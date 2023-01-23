@@ -21,7 +21,7 @@ const questions = [
     {
     type: 'input',
     message: 'What is your LinkedIn profile?',
-    name: 'LinkedIn',
+    name: 'linkedin',
     },
     {
     type: 'input',
@@ -70,8 +70,8 @@ function init(data) {
               <li class="list-group-item location">${response.location}</li>
             </ul>
             <div class="card-body">
-              <a href="#${response.linkedin}" class="card-link linkedin">LinkedIn</a>
-              <a href="#https://github.com/${response.github}" class="card-link">Github</a>
+              <a href="https://${response.linkedin}" class="card-link linkedin">LinkedIn</a>
+              <a href="https://github.com/${response.github}" class="card-link">Github</a>
             </div>
           </div>
     
