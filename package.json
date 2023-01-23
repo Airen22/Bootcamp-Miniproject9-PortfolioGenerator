@@ -1,0 +1,22 @@
+{
+  "name": "bootcamp-miniproject9-portfoliogenerator",
+  "version": "1.0.0",
+  "description": "Portfolio Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Airen22/Bootcamp-Miniproject9-PortfolioGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Airen22/Bootcamp-Miniproject9-PortfolioGenerator/issues"
+  },
+  "homepage": "https://github.com/Airen22/Bootcamp-Miniproject9-PortfolioGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
